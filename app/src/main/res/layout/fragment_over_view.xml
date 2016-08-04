@@ -1,0 +1,63 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".Fragments.OverViewFragment"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/linearLayout">
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/all"
+            android:id="@+id/button3"
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/friday"
+            android:id="@+id/button"
+            android:layout_weight="1" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/saturday"
+            android:id="@+id/button2"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#0a00a0"
+        android:orientation="vertical"
+        android:layout_below="@+id/linearLayout">
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/overview_sliding_tabs"
+            android:layout_width="match_parent"
+
+
+            app:tabMode="scrollable"
+            android:layout_height="wrap_content" />
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/overview_viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+android:layout_weight="1"
+            android:background="@android:color/white" />
+
+    </LinearLayout>
+</LinearLayout>

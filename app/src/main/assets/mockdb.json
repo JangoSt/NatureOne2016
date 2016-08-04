@@ -1,0 +1,377 @@
+{
+   "events":[
+      {
+         "name": "Adam Beyer Stockholm",
+         "desc": "Mehr als 15 Jahre ist sein Label „Drumcode“ bereits am Start. Und trotzdem wird es in den letzten Jahren gehyped wie kaum ein zweites. Doch das alte Sprichwort „don’t belive the hype“ gilt hier nicht. Joseph Capriati, Alan Fitzpatrick, Harvey McKay, Sam Paganini, Dustin Zahn oder Butch. Alles Acts die in den letzten zwei Jahren auf Drumcode released haben. Adam Beyer weiß, wie man die Qualität hoch hält und das obwohl er ständig auf Tour ist. Kalifornien, Dubai, Holland – quer durch die Welt mit ausverkauften Labelnächten. Wer noch nie in den Genuss einer „Drumcode Night“ kam, dem wird hier geholfen.",
+          "artists":[
+            {
+               "artist_ID": 0
+            }
+         ],
+         "event_ID":1,
+         "floor_ID":1,
+         "day":1,
+         "start-hour":1,
+         "start-minute":30,
+          "end-hour": 3,
+          "end-minute": 0
+      },
+      {
+         "name": "AKA AKA feat. Thalstroem Berlin",
+         "desc": "Fünf Bookings in nur sechs Tagen? Für AKA AKA ist das DJ-Alltag. Wer so gefragt ist, hat Erfolg. Der Durchbruch gelang 2009 mit der Single „Woody Woodpecker“, die landete bei Beatport auf Platz 1. Auch 2016 steht unter einem guten Stern. Ihr Album „Connected“ wird von den Fans gefeiert. Bester Live Act laut dem FAZEmag – Da haben sich die Jungs was Besonderes überlegt, eine 2016 Version ihres großen Hits. ",
+         "artists":[
+            {
+               "artist_ID": 1
+            }
+         ],
+         "event_ID":2,
+         "floor_ID":1,
+         "day":0,
+        "start-hour":4,
+        "start-minute":0,
+        "end-hour": 6,
+        "end-minute": 0
+      },
+     {
+       "name": "",
+       "desc": "",
+       "artists":[
+         {
+           "artist_ID": 1
+         }
+       ],
+       "event_ID":2,
+       "floor_ID":1,
+       "day":0,
+       "start-hour":4,
+       "start-minute":0,
+       "end-hour": 6,
+       "end-minute": 0
+     },
+     {
+       "name": "",
+       "desc": "",
+       "artists":[
+         {
+           "artist_ID": 1
+         }
+       ],
+       "event_ID":2,
+       "floor_ID":1,
+       "day":0,
+       "start-hour":4,
+       "start-minute":0,
+       "end-hour": 6,
+       "end-minute": 0
+     }
+   ],
+  "floors":[
+    {
+      "name": "Open Air",
+      "floor_ID":0
+    },
+    {
+      "name": "Century Circus",
+      "floor_ID":1
+    },
+    {
+      "name": "House of House",
+      "floor_ID":2
+    },
+    {
+      "name": "Classic Terminal",
+      "floor_ID":3
+    },
+    {
+      "name": "Die Clubs",
+      "floor_ID":4
+    }
+  ],
+  "artists":[
+    {
+      "name":"Adam Beyer",
+      "place":"Stockholm",
+      "locale": "de",
+      "desc":"Mehr als 15 Jahre ist sein Label „Drumcode“ bereits am Start. Und trotzdem wird es in den letzten Jahren gehyped wie kaum ein zweites. Doch das alte Sprichwort „don’t belive the hype“ gilt hier nicht. Joseph Capriati, Alan Fitzpatrick, Harvey McKay, Sam Paganini, Dustin Zahn oder Butch. Alles Acts die in den letzten zwei Jahren auf Drumcode released haben. Adam Beyer weiß, wie man die Qualität hoch hält und das obwohl er ständig auf Tour ist. Kalifornien, Dubai, Holland – quer durch die Welt mit ausverkauften Labelnächten. Wer noch nie in den Genuss einer „Drumcode Night“ kam, dem wird hier geholfen. ",
+      "artist_ID":0,
+      "is_special":true
+    },
+    {
+      "name":"AKA AKA feat. Thalstroem",
+      "place":"Fünf Bookings in nur sechs Tagen? Für AKA AKA ist das DJ-Alltag. Wer so gefragt ist, hat Erfolg. Der Durchbruch gelang 2009 mit der Single „Woody Woodpecker“, die landete bei Beatport auf Platz 1. Auch 2016 steht unter einem guten Stern. Ihr Album „Connected“ wird von den Fans gefeiert. Bester Live Act laut dem FAZEmag – Da haben sich die Jungs was Besonderes überlegt, eine 2016 Version ihres großen Hits. ",
+      "locale": "de",
+      "desc":"",
+      "artist_ID":1,
+      "is_special":true
+    },
+    {
+      "name":"Alex M.O.R.P.H.",
+      "place":"Bochum",
+      "locale": "de",
+      "desc":"Neben ihren eigenen Laufbahnen hat sich das B2B-Paket bestehend aus Alex M.O.R.P.H. und Woody van Eyden längst zu einer gefragten Combo entwickelt. Nicht nur die beeindruckenden DJ-Sets in dieser Konstellation, sondern auch die B2B-Eigenproduktionen und -Remixes fanden immer breites Gehör in der Fanbase. Bei NATURE ONE spielen sie gemeinsam auf dem Classic Terminal und in ihrem eigenen Clubfloor „Universal Nation“ und „HeavensGate“",
+      "artist_ID":2,
+      "is_special":false
+    },
+
+    {
+      "name":"ALOK",
+      "place":"Brasilien",
+      "locale": "pt-BR",
+      "desc":"Die Musikalität liegt in der Familie: Die Eltern, DJ-Pioniere in Brasilien. Der Sohn, Brasiliens DJ Nummer eins laut den Lesern des „HOUSE Mags“. Für seine Kombination von Techno und House setzt ALOK auf abgefahrene Inspirationsquellen: Im letzten Jahr besuchte er einen indianischen Stamm, um ihre ursprünglichen Gesänge und Rhythmen in seine Produktionen einfließen zu lassen. Neugierig? Schaut Euch hier seine spannende Doku an. ",
+      "artist_ID":3,
+      "is_special":false
+    },
+    {
+      "name":"Andy Düx",
+      "place":"Mainz",
+      "locale": "de",
+      "desc":"Andy Düx, seit 38 Jahren an den Decks! Seit Gründung seines „Overdrive“ Recordlabels 1990 gibt der Mainzer vielen Newcomern ein Zuhause. DJs und Acts wie Kraemer & Niereich, Sascha Krohn, Sven Wittekind und Dominik Vogel haben hier released. Als Resident-DJ beschallte er legendäre Clubs wie das Dorian Gray, das Palazzo und die Safari Lounge. Noch heute in aller Ohren: Seine Remixe für „Marusha - It takes me away“ und „B.B.E. - Seven Days and one Week“. ",
+      "artist_ID":4,
+      "is_special":false
+    },
+    {
+      "name":"Bassface Sascha",
+      "place":"Mannheim",
+      "locale": "de",
+      "desc":"Ready for Breakbeat? Sascha zählt zu den Broken-Beat-DJs der allerersten Stunde. Einen Katapultstart legte er in den 90er Jahren auch im Jungle- und Drum´n´Bass-Bereich hin. Bei MAYDAY spielte er das erste Jungle-Set überhaupt auf einem deutschen Rave. Es folgten weltweite Gigs, sein eigenes Plattenlabel „Smoking Drum Records“, eine Show auf Deutschlands erstem Technoradiosender „Evosonic“ und Auftritte beim Musiksender VIVA, bei dem er auch als Gast-VJ zum Einsatz kam. Mittlerweile ist dies alles Geschichte – Bassface Sascha ist geblieben und hält die Fahne der Broken Beats konsequent hoch. ",
+      "artist_ID":5,
+      "is_special":false
+    },
+    {
+      "name":"Black Asteroid",
+      "place":"New York",
+      "locale": "en",
+      "desc":"Für Superstar Prince arbeitete Black Asteroid als Toningenieur. Mit seinem Sideprojekt MOTOR teilte er Stages mit Acts wie Daft Punk oder Kraftwerk. Für Depeche Mode war er als SupportAct bei der Welt-Tour 2009 dabei. Seine Releases erschienen vor allem auf Chris Liebings CLR Label. 2016 gründete er sein eigenes Label: Pitch Black. Sein Sound ist düster und treibend. Checkt den Track Black Moon",
+      "artist_ID":6,
+      "is_special":false
+    },
+    {
+      "name":"Boris Brejcha",
+      "place":"Frankenthal",
+      "locale": "de",
+      "desc":"Boris hat die Musikproduktion von der Pieke auf gelernt und ist ein Multi-Instrumentalist, beherrscht Drums und Keyboard aus dem Eff-Eff. Seit 2006 ging es für Boris Brejcha steil bergauf. Wer kann mit Mitte 30 schon behaupten, acht Alben, drei Dutzend Singles released zu haben und an den Spitzen der Download-Charts zu stehen? Boris Brejcha! Er verbindet Techno mit traumhaft sphärischen Melodien und extrem tanzbaren Beats. Mehr als 800.000 Facebook-User verfolgen seine Posts, seine Karriere, seine Bookings, seine Tracks. I like! Hier gibt es eine Preview seiner neuesten Tracks. ",
+      "artist_ID":7,
+      "is_special":true
+    },
+    {
+      "name":"Butch",
+      "place":"Mainz",
+      "locale": "de",
+      "desc":"Freitag: Beirut, Samstag: Lyon, Sonntag: Ibiza. Der Terminkalender von Butch ist pickepackevoll. Er ist ein Publikumsmagnet, der neben 15 Gigs pro Monat fünf Tage die Woche Musik produziert: Techno, House, Experimental. Allerdings lässt sich Butch nur ungern in eine musikalische Schublade stecken. Er versucht, stilistisch möglichst viele Merkmale der elektronischen Musik zu kombinieren. Und das gelingt ihm mit Bravour! Nebenbei liefert er regelmäßig amüsante Videos. Seht selbst.",
+      "artist_ID":8,
+      "is_special":true
+    },
+    {
+      "name":"Charly Lownoise",
+      "place":"Amsterdam",
+      "locale": "cs",
+      "desc":"Happy Hardcore hat einen Namen und zwei Gesichter: Charly Lownoise & Mental Theo. Mit „Wonderful Days“ gelang dem niederländischen Duo der Durchbruch. Aber auch „Hardcore Feelings“ und „Stars“ sind Ohrwurmgaranten. Für die Tracklists der Hardcore-Compilation „Thunderdome“ war das DJ-Team federführend. Ab Ende 2001 legten Charly und Theo eine Schaffenspause ein, um 2007 ihr Comeback zu feiern. Natürlich in Deutschland, wo sie mitunter am erfolgreichsten waren. Bei NATURE ONE immer ein absolutes Highlight.",
+      "artist_ID":9,
+      "is_special":true
+    },
+    {
+      "name":"Mental Theo",
+      "place":"Amsterdam",
+      "locale": "cs",
+      "desc":"Happy Hardcore hat einen Namen und zwei Gesichter: Charly Lownoise & Mental Theo. Mit Wonderful Days gelang dem niederländischen Duo der Durchbruch. Aber auch Hardcore Feelings und Stars sind Ohrwurmgaranten. Für die Tracklists der Hardcore-Compilation \"Thunderdome\" war das DJ-Team federführend. Ab Ende 2001 legten Charly und Theo eine Schaffenspause ein, um 2007 ihr Comeback zu feiern. Natürlich in Deutschland, wo sie mitunter am erfolgreichsten waren. Bei NATURE ONE immer ein absolutes Highlight. ",
+      "artist_ID":10,
+      "is_special":true
+    },
+    {
+      "name":"Chris Liebing",
+      "place":"Frankfurt",
+      "locale": "de",
+      "desc":"Als Labelhead von „CLR“ gab er vielen jungen kreativen Techno-Acts wie Rebekah ein musikalisches Zuhause. Als Radio- und Podcast-Host liefert er wöchentlich Einblicke in die Techno-Welt. 2016 stehen Stopps in Argentinien, Russland oder Mexico auf seiner Reiseliste. LIVE überzeugt Chris durch seine unangefochtene Virtuosität. Er beherrscht das technische Gerät wie kaum ein Zweiter. ",
+      "artist_ID":11,
+      "is_special":true
+    },
+    {
+      "name":"Christian Gerlach",
+      "place":"Koblenz",
+      "locale": "de",
+      "desc":"Analog und ehrlich – der Koblenzer (Sound)Architekt bezeichnet sein Schaffen als Symbiose aus Kunst, Architektur und Musik. Dabei versucht er „kühn zu sein“ und nicht „zu makellos“ zu klingen. Authentischer Techno eben, der ihm einen Vertrag mit dem Label „abstract“ einbrachte. Seit 2015 ist sein eigenes Imprint „Lanthan.audio“ am Start. In seine Ende 2015 veröffentlichte EP „Zatin“ könnt ihr hier reinhören.",
+      "artist_ID":12,
+      "is_special":false
+    },
+    {
+      "name":"Cuebrick ",
+      "place":"Stuttgart",
+      "locale": "de",
+      "desc":"Der Host von NitroX auf bigFM ist einer der aufstrebendsten Progressive-House-Acts der letzten beiden Jahre. Sein Track „Watch Out“ blieb vier Wochen auf Platz 1 der Deutschen Dance Charts. Aktuell hat der junge Mannheimer mit „Safe“ den nächsten Track in den Beatport Top100. ",
+      "artist_ID":13,
+      "is_special":false
+    },
+    {
+      "name":"Danielle Diaz",
+      "place":"Ulm",
+      "locale": "de",
+      "desc":"Ihre Zutaten für ein perfektes Tanzmenü: Feinste Synthieklänge, eine Prise Uplifting-House und locker-flockige Tropical-Sounds mit gepfefferten Beats. Von Ulm ging es schnurstracks nach Mykonos: Spätestens seit ihrer spektakulären Show im dortigen Paradise Club gehört Danielle Diaz zu den internationalen Top-DJanes. Im Backstage-Bereich lernte sie Carl Cox, Markus Schulz und Bob Sinclair kennen. Von nun an ging es die Karriereleiter nur noch nach oben. Schnell wurde Ibiza ihr zweites Zuhause, wo Danielle zu einer der meist gebuchten DJanes avancierte. Releases auf „WePLAY“ oder dem „Tonspiel\" bestätigen ihr musikalisches Ausnahmetalent. ",
+      "artist_ID":14,
+      "is_special":false
+    },
+    {
+      "name":"Dany Rodriguez",
+      "place":"Lüttich",
+      "locale": "sp",
+      "desc":"In Spanien geboren, lebt und arbeitet Dany jetzt in Belgien. Gerade veröffentlichte er seine neue EP „Connected“, welche von Acts wie Speedy J, Dave Clarke, Ben Sims, The Advent oder Adam Beyer supported wird. Als nächstes erscheint auf seinem Label „RMR“ ein Release von Klaudia Gawlas",
+      "artist_ID":15,
+      "is_special":false
+    },
+    {
+      "name":"Dave Clarke",
+      "place":"Amsterdam",
+      "locale": "cs",
+      "desc":"„Baron of Techno“ – Dave Clarke hat sich diesen Namen redlich verdient. Über 30 Singles und EPs, Remixe für Depeche Mode, Moby oder Underworld. Über NATURE ONE sagte er mal: “To not have NATURE ONE in your summer diary as an artist is a very distressing and sad situation because it truly is the best outdoor festival in Germany.” ",
+      "artist_ID":16,
+      "is_special":true
+    },
+    {
+      "name":"Dave202",
+      "place":"Zürich",
+      "locale": "de_CH",
+      "desc":"Ein Schweizer on Tour: An 52 Wochenenden ist der Trance-Hero in der weltweiten Clublandschaft unterwegs. Den Grundstein seiner Karriere legte er 1994 im damaligen Schweizer Club Godoonia. Es folgten Touren durch Japan, Brasilien, Australien. David Guetta, Paul van Dyk und Martin Garrix pushen seine Tracks in den Playlists ihrer Radioshows oder auf ihren Live-Gigs. Als Resident war Dave202 viele Jahre das Aushängeschild des berühmten Clubs „Oxa“. Heute legt er nicht nur für die Massen in den Clubs, auf Festivals und Events auf, sondern hat auf „Planet 105“ auch seine eigene Radioshow. Zudem ist er als Manager und Musikwissenschaftler tätig. ",
+      "artist_ID":17,
+      "is_special":false
+    },
+    {
+      "name":"David K. ",
+      "place":"Leipzig",
+      "locale": "de",
+      "desc":"Die Deephouse-Szene hat einen neuen Shootingstar: David K. aus Leipzig. Sein Sound: Melancholisch-entspannte Melodien, verspielte, romantische Flächen, zarte Vocals und treibende Bässe. Mit diesem neuen, einzigartigen Stil begeisterte der 26-Jährige bereits auf der Winter Music Conference in Miami. Sein Remix zu Robin Schulz‘ „Headlights\" ist ebenso in aller Ohren wie sein neuester Dancefloorfiller „Like the Dawn\". ",
+      "artist_ID":18,
+      "is_special":false
+    },
+    {
+      "name":"Deepend",
+      "place":"Amsterdam",
+      "locale": "cs",
+      "desc":"Wer von Moby unterstützt und empfohlen wird, der muss ein Händchen für originellen Sound haben. Darf man vorstellen: Deepend aus Amsterdam. Als dann auch noch Armin van Buurens Majorlabel „Armada Music“ auf die zwei Freunde zukam und ihre ersten Singles veröffentlichte, konnten die Holländer ihre Berufung zum Beruf machen. Allein im letzten Jahr wurden ihre Bootlegs mehr als eine Million Mal gespielt. Längst sind ihr Vocal-Track „Feel“ und ihr Remix zum Nummer-Eins-Hit „Catch & Release“ von Matt Simons nicht mehr aus den Setlists von Robin Schulz oder Bakermat wegzudenken",
+      "artist_ID":19,
+      "is_special":true
+    },
+    {
+      "name":"DJ Dag",
+      "place":"Frankfurt",
+      "locale": "de",
+      "desc":"„Es ist dieser ganz besondere Moment am Sonntagmorgen: Pünktlich zum Set-Beginn von DJ-Legende Dag klettert die Sonne zaghaft über den Horizont. Von allen Floors kommen sie hier zum finalen Tanz zusammen. Spüren die Wärme, die langsam die Müdigkeit vertreibt – die Wärme des grenzenlosen Wir-Gefühls.“ Hier könnt Ihr das DJ Dag Set aus dem letzten Jahr anhören. Zum Erinnern, zum Vorfühlen. Zum Wärmen. ",
+      "artist_ID":20,
+      "is_special":true
+    },
+    {
+      "name":"DJ Toyax",
+      "place":"Haarlem",
+      "locale": "de",
+      "desc":"Legenden brauchen ein Zuhause: DJ Toyax hat seins 2007 im Classic Terminal auf NATURE ONE gefunden und feiert dieses Jahr seine siebte Performance. Grund zu Feiern hatte der Holländer aber schon zuvor. Der Combiner von Hardtrance, Acid, Rave und Techno spielte auf mehr als 300 Events – allein in den Niederlanden. Neueste Sets auf SoundCloud.",
+      "artist_ID":21,
+      "is_special":true
+    },
+    {
+      "name":"Dominik Eulberg",
+      "place":"Westerwald",
+      "locale": "de",
+      "desc":"Vogelgesänge, Waldgeräusche, Bienensummen für eine Bassline? Klar: Hier kann nur die Rede von Dominik Eulberg sein, der an den Decks ebenso Profi ist wie beim Bestimmen von Vogelarten. Seine Fans mögen nicht nur seine facettenreichen Tracks, sondern auch seine Erklärungen zu der ihn inspirierenden Natur. Eulberg erzählt: Ein Fan am Moskauer Flughafen habe „den Ruf einer Goldammer nachgeahmt, den er sich von einer meiner CDs eingeprägt hatte“. Das Gesamtpaket kommt an: unzählige Auszeichnungen, unter anderem den Preis der deutschen Schallplattenkritik für sein Album „Heimische Gefilde”. Sein Studio im Westerwald liefert regelmäßig Output, u.a. Remixe für Oliver Koletzki, Marco Bailey, Kollektiv Turmstrasse. Sein aktuelles 3 Stunden Set EGLO.010 hört ihr hier. ",
+      "artist_ID":22,
+      "is_special":true
+    },
+    {
+      "name":"FEDER ",
+      "place":"Paris",
+      "locale": "fr",
+      "desc":"30 Millionen Klicks auf Youtube für seinen Track „Goodbye\": Das klingt nicht nach Abschied. Die Karriere des Franzosen hat gerade erst begonnen. Seit Wochen hat sich der Deephouse-Track in den Top10 fast aller europäischen Länder verankert. Die einzigartige Mischung aus einprägsamen Vocals, technoiden Synthesizern, akustischen Gitarren und wummerndem Bass verzaubert. Und schon stehen die nächsten Veröffentlichungen und Kollaborationen an. FEDER – merken!",
+      "artist_ID":23,
+      "is_special":true
+    },
+    {
+      "name":"Felix Kröcher",
+      "place":"Frankfurt",
+      "locale": "de",
+      "desc":"Felix Kröcher und NATURE ONE führen eine Vorzeigebeziehung. „Wir werden gemeinsam alt“ sagt der Frankfurter über die Party auf der Pydna. 1999 feierte er hier sein Debüt, über 15 Jahre später ist er mit derselben Leidenschaft wie zu Beginn dabei. Der Beweis: Sein Set aus dem letzten Jahr.",
+      "artist_ID":24,
+      "is_special":true
+    },
+    {
+      "name":"Flug  ",
+      "place":"Barcelona",
+      "locale": "es",
+      "desc":"Die Tracks von Flug stehen regelmäßig auf den Playlists von Len Faki, Chris Liebling oder Adam Beyer. 2016 veröffentlichte der argentinische Produzent und DJ ein neues Album. „In Safe Hiding“ stieg sofort in die Top100 der Beatport Charts ein und wurde in Reviews als „10 out of 10“ Album gefeiert. „Well balanced, dreamy ambient / heavy, stepping techno album.“ – den Sound, den ihr euch darunter vorstellen müsst, könnt ihr hier abchecken. ",
+      "artist_ID":25,
+      "is_special":true
+    },
+    {
+      "name":"FRDY",
+      "place":"Weeze",
+      "locale": "de",
+      "desc":"Innerhalb kürzester Zeit hat es der 21-jährige vom kleinen Homestudio auf die großen Festival-Bühnen in Deutschland geschafft. Als PAROOKAVILLE-Resident spielt FRDY nun an der Seite von Größen wie Armin van Buuren, Steve Aoki, Dimitri Vegas & Like Mike, Deorro oder Martin Solveig. Seine Sets sind eine gelungene Mischung aus progressivem Mainstream-EDM gepaart mit kreativen Elementen aus Deep-House und Future-House. ",
+      "artist_ID":26,
+      "is_special":true
+    },
+    {
+      "name":"Gestört aber GeiL",
+      "place":"Erfurt",
+      "locale": "de",
+      "desc":"Harmonische Melodien, treibende Bässe und deutsche Texte machen den Gestört aber GeiL-Sound so unverwechselbar. Mit „Ich & Du“ und „Unter meiner Haut“ waren Nico und Spike 2015 insgesamt 20 Wochen in den Top 10 der Deutschen Dance Charts vertreten. Ihr erstes Album erschien Anfang des Jahres und erreichte auf Anhieb Platz Zwei der Charts. Ihre aktuelle Single heißt \"Geh nicht weg\" und die gibt es hier. ",
+      "artist_ID":27,
+      "is_special":true
+    },
+    {
+      "name":"HEYHEY ",
+      "place":"Berlin",
+      "locale": "de",
+      "desc":"Blabla",
+      "artist_ID":28,
+      "is_special":true
+    },
+    {
+      "name":"HUGEL ",
+      "place":"Marseille",
+      "locale": "fr",
+      "desc":"“I´m a French DJ and producer and I make the girls \" schreibt das „Housenahmetalent“ auf seiner Facebook-Seite. Und man kann sich sicher sein: Zu seinem neuesten Vocal-House-Track „Coming Home\" werden Mädels wie Jungs abfeiern. Dafür sorgt allein schon der sommerliche Beat, das chillig-fröhliche Pfeifen und die eingängige Melodie. Er spielt Shows mit David Guetta, Robin Schulz und Oliver Helden, legt auf den Mainstages der weltweit größten Festivals auf.",
+      "artist_ID":29,
+      "is_special":true
+    },
+    {
+      "name":"Jonathan Kaspar",
+      "place":"Köln",
+      "locale": "de",
+      "desc":"Er gehört zu den Hosts von “Läuft.“ im Gewölbe oder Odonien Köln. Neben deutschlandweiten Bookings, gehören mittlerweile Events wie das „Seltsame Verhalten Festival“ oder „electric city“ und Gigs in New York, Dubai, Goa oder in Tiflis zu seinem Tour Kalender. Eigene Produktionen erschienen bislang auf Labels wie PETS und Upon.You. Neben Nachfolgern auf diesen Labels, folgen dieses Jahr EPs auf Objektivity und KX. ",
+      "artist_ID":30,
+      "is_special":true
+    },{
+      "name":"Klaudia Gawlas",
+      "place":"Passau",
+      "locale": "de",
+      "desc":"Drei Mal in Folge erster Platz in der Kategorie „Best DJ“ im FazeMag. Ihr Debütalbum „ZEITGEIST“ wurde von den Fans gefeiert und manifestierte den speziellen und eigenen Sound der DJane aus Passau. „Mit Techno ist man auf der ganzen Welt zu Hause“ und „zusammen, nicht gegeneinander“ – diese Mentalität lebt Klaudia und ist somit die ideale Botschafterin für das grenzenlose Wir-Gefühl. Wie sich diese Botschaft anhört?",
+      "artist_ID":31,
+      "is_special":true
+    },{
+      "name":"Laidback Luke",
+      "place":"Amsterdam",
+      "locale": "se",
+      "desc":"2015 releaste der gebürtige Philippine sein Album “Focus”. Die erste Single des Albums „Let it go“ wurde bei Soundcloud bereits 300.000 Mal abgespielt. Der in Amsterdam lebende House-Veteran produzierte bereits Remixe für Daft Punk und Madonna. Seinen größten Hit hatte er zusammen mit der Swedish House Mafia und dem Track „Leave the World Behind“. FunFact: Laidback Luke gewann einige Medaillen bei professionellen Kung-Fu Wettkämpfen. ",
+      "artist_ID":32,
+      "is_special":true
+    },{
+      "name":"",
+      "place":"",
+      "locale": "de",
+      "desc":"",
+      "artist_ID":30,
+      "is_special":true
+    },{
+      "name":"",
+      "place":"",
+      "locale": "de",
+      "desc":"",
+      "artist_ID":30,
+      "is_special":true
+    },{
+      "name":"",
+      "place":"",
+      "locale": "de",
+      "desc":"",
+      "artist_ID":30,
+      "is_special":true
+    },
+
+  ]
+}
